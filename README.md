@@ -1,11 +1,11 @@
 <p align="center">  <img src="./banner.png" alt="cat posé oklm" width="800"></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/rached-dahmani-547a531b0/" target="_blank">
+  <a href="https://fr.linkedin.com/in/rached-dahmani-547a531b0" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-321C11?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   
-  <a href="mailto:rached-dahmani@outlook.fr">
+  <a href="mailto:rached.dahmani@universite-paris-saclay.fr">
     <img src="https://img.shields.io/badge/Email-9C5B2C?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   
